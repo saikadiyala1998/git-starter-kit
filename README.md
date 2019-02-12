@@ -73,3 +73,5 @@ Or to force the delete:
 #### rm -cache
 
 Removes cache from a specific file so that it can be added to the .gitignore
+
+Thank you to everyone who has attended the workshop.
